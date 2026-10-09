@@ -9,3 +9,8 @@ nodejs/data/
 dist/
 evaluator-private/
 coverage/
+python/venv/
+python/Lib/
+python/Scripts/
+python/Include/
+python/pyvenv.cfg
